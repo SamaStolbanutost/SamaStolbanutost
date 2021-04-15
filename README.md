@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luna
 - 👀 I’m interested in Game-Development
 - 🌱 I’m currently learning C++ and GodotScript
-- 💞️ I’m looking to collaborate on game
+- 💞️ I’m looking to collaborate on game with a designer
 - 📫 Check my website to contact me!
